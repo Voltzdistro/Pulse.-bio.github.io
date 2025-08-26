@@ -1,7 +1,7 @@
 class LinkInBioPage {
     constructor() {
         this.templateData = {
-            profilePicture: 'https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=400',
+            profilePicture: 'https://i.imgur.com/Pc46HfP.png',
             name: 'Voltzdistro',
             tagline: 'Digital Creator & Tech Enthusiast',
             socialLinks: [
@@ -359,7 +359,7 @@ class LinkInBioPage {
     duplicateTemplate() {
         // Clear user-specific data but keep structure
         const duplicateData = {
-            profilePicture: 'https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&w=400',
+            profilePicture: 'https://i.imgur.com/Pc46HfP.png',
             name: '',
             tagline: '',
             socialLinks: [''],
