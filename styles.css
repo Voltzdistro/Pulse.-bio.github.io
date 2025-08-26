@@ -783,32 +783,8 @@ body, .settings-btn, .social-icon, .link-button, .profile-name, .profile-tagline
 ::-webkit-scrollbar-thumb:hover {
   background: var(--accent-secondary);
 }
-.menu-panel {
-  margin-top: 15px;
-  background: rgba(0,0,0,0.05);
-  border-radius: 12px;
-  padding: 10px 15px;
-  display: inline-block;
-  text-align: left;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.menu-panel ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.menu-panel li {
-  margin: 6px 0;
-  padding: 8px 12px;
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 14px;
-  transition: background 0.2s ease, transform 0.1s ease;
-}
-
-.menu-panel li:hover {
-  background: rgba(0,0,0,0.08);
-  transform: translateX(4px);
-}
+.settings-menu {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 100;
