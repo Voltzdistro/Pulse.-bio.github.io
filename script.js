@@ -5,7 +5,7 @@ class LinkInBioPage {
             name: 'Voltzdistro',
             tagline: 'Digital Creator & Tech Enthusiast',
             socialLinks: [
-                'https://voltzdistro/',
+                'https://github.com/voltzdistro/',
                 'https://www.youtube.com/channel/UCUTuzzPqaFpdlyQ1DtMuZQQ',
                 'https://www.reddit.com/user/DizzyNose3799/',
                 'https://wa.me/+2347081427486'
