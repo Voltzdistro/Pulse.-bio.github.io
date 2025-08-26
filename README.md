@@ -1,4 +1,4 @@
-# Link in Bio Tool - U9 L04d T0 R39O
+# Pulse.bio - Link in Bio Tool
 
 A fully functional, customizable Link in Bio tool with advanced features including template duplication, theme customization, and smart icon detection.
 
